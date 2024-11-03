@@ -1,9 +1,0 @@
-DCCS config:
-API Url: https://api-dccs-ensaas.education.wise-paas.com/
-Credential Key: 6ccdee100c24035e69e2d6150917aa6j
-NodeId: 2e9a4724-1c48-48f4-a6ba-b2d8cac9e923
-MQTT config:
-HostName: 127.0.0.1
-Port: 1883
-Username: admin
-Password: admin
